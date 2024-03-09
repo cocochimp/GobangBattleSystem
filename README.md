@@ -1,7 +1,16 @@
-# GobangBattleSystem
-基于Java GUI的广东海洋大学五子棋对战系统
+# GobangBattleSystem五子棋对战
 
-（1）当以有双方玩家进入游戏大厅后，第三个玩家进入游戏大厅，可以看见前面的玩家的座位信息和头像、姓名信息：
+🎉基于Java GUI开发的广东海洋大学五子棋对战系统
+
+github地址：https://github.com/cocochimp/GobangBattleSystem
+
+
+
+# 📚页面展示📚
+
+## 进入大厅
+
+当以有双方玩家进入游戏大厅后，第三个玩家进入游戏大厅，可以看见前面的玩家的座位信息和头像、姓名信息：
 
 ![image-20230420110527315](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110527.png)
 
@@ -9,7 +18,9 @@
 
  
 
-（2）当对位存在对手时，一方点击“开始游戏”后，双方进入游戏对战界面
+## 游戏对战页面
+
+当对位存在对手时，一方点击“开始游戏”后，双方进入游戏对战界面
 
 ![image-20230420110549069](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110549.png)
 
@@ -19,31 +30,31 @@
 
 
 
-（3）聊天室中，双方可实现聊天
+## 聊天室
+
+聊天室中，双方可实现聊天
 
 ![image-20230420110610589](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110610.png)
 
  
 
-（4）当双方点击“开始游戏”后，进入游戏模式
+## 游戏过程
+
+当双方点击“开始游戏”后，进入游戏模式
 
 ![image-20230420110618429](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110618.png)
 
- 
+ ### 胜利
 
-（5）当某方胜利时，对战双方客户端弹出弹窗
+当某方胜利时，对战双方客户端弹出弹窗
 
 ![image-20230420110624989](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110625.png)
 
- 
-
- 
+### 认输
 
 （6）当有一方在游戏过程中点击“认输”按钮后，出现弹窗“xxx认输，游戏结束”（和棋同理）
 
 ![image-20230420110632224](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/23-03/20230420110632.png)
-
-
 
 > 响应逻辑
 
