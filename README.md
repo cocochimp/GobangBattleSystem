@@ -1,6 +1,6 @@
 # 五子棋对战系统（课设）
 
-🎉基于Java GUI开发的广东海洋大学五子棋对战系统
+🎉基于Java GUI开发的五子棋对战系统
 
 github地址：https://github.com/cocochimp/GobangBattleSystem
 
