@@ -1,16 +1,9 @@
-# 五子棋对战系统（课设）
+# 五子棋对战系统
 
 🎉基于Java GUI开发的五子棋对战系统
 
 github地址：https://github.com/cocochimp/GobangBattleSystem
 
-⚠⚠
-
-近期发现有很多无良商家没有征得我的同意，私自盗取我的开源项目作为毕设、课设以及论文去高价卖！！！
-
-如果有需要可以留言我并说明用意，如果有毕设项目、毕业论文、课设的用途，请私聊我
-
-![](https://cocochimp-img.oss-cn-beijing.aliyuncs.com/13.png)
 
 # 📚页面展示📚
 
